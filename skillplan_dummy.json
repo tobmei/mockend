@@ -29,7 +29,7 @@
     {
       "version": 1,
       "id": 1,
-      "candiadteId": 1,
+      "candidateId": 1,
       "department": "Web",
       "isComplete": true,
       "dateCompleted": "01.02.2022",
@@ -75,7 +75,7 @@
     {
       "version": 1,
       "id": 2,
-      "candiadteId": 2,
+      "candidateId": 2,
       "department": "Web",
       "isComplete": true,
       "dateCompleted": "01.02.2022",
@@ -121,7 +121,7 @@
     {
       "version": 1,
       "id": 3,
-      "candiadteId": 3,
+      "candidateId": 3,
       "department": "Web",
       "isComplete": true,
       "dateCompleted": "01.02.2022",
