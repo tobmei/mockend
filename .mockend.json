@@ -1,173 +1,114 @@
 {
   "User": {
-      "candidates": [
-        {
-          "id": 1,
-          "firstName": "Vorname",
-          "lastName": "Nachname",
-          "dateCreated": "01.01.2022",
-          "dateInterviewed": "",
-          "interviewed": false
-        },
-        {
-          "id": 2,
-          "firstName": "Vorname",
-          "lastName": "Nachname",
-          "dateCreated": "01.01.2022",
-          "dateInterviewed": "",
-          "interviewed": false
-        },
-        {
-          "id": 3,
-          "firstName": "Vorname",
-          "lastName": "Nachname",
-          "dateCreated": "01.01.2022",
-          "dateInterviewed": "",
-          "interviewed": false
-        }
-      ]
-    
+      "1": {
+        "id": 1,
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "dateCreated": "01.01.2022",
+        "dateInterviewed": "",
+        "interviewed": false
+      },
+      "2": {
+        "id": 2,
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "dateCreated": "01.01.2022",
+        "dateInterviewed": "",
+        "interviewed": false
+      }
   },
   "Comment": {
-      "skillplans": [
-        {
-          "version": 1,
-          "id": 1,
-          "candiadteId": 1,
-          "department": "Web",
-          "isComplete": true,
-          "dateCompleted": "01.02.2022",
-          "blockList": [
-            {
-              "id": 1,
-              "name": "Script-Sprachen",
-              "topicList": [
-                {
-                  "id": 1,
-                  "name": "JavaScript",
-                  "isChecked": true,
-                  "yearsExperience": 4,
-                  "skillLevel": 3
-                },
-                {
-                  "id": 2,
-                  "name": "PHP",
-                  "isChecked": true,
-                  "yearsExperience": 1,
-                  "skillLevel": 1
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "name": "Design Patterns",
-              "topicList": [
-                {
-                  "id": 3,
-                  "name": "Singleton",
-                  "isChecked": true
-                },
-                {
-                  "id": 4,
-                  "name": "Factory",
-                  "isChecked": false
-                }
-              ]
-            }
-         ]
-        },
-        {
-          "version": 1,
-          "id": 2,
-          "candiadteId": 2,
-          "department": "Web",
-          "isComplete": true,
-          "dateCompleted": "01.02.2022",
-          "blockList": [
-            {
-              "id": 1,
-              "name": "Script-Sprachen",
-              "topicList": [
-                {
-                  "id": 1,
-                  "name": "JavaScript",
-                  "isChecked": true,
-                  "yearsExperience": 4,
-                  "skillLevel": 3
-                },
-                {
-                  "id": 2,
-                  "name": "PHP",
-                  "isChecked": true,
-                  "yearsExperience": 1,
-                  "skillLevel": 1
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "name": "Design Patterns",
-              "topicList": [
-                {
-                  "id": 3,
-                  "name": "Singleton",
-                  "isChecked": true
-                },
-                {
-                  "id": 4,
-                  "name": "Factory",
-                  "isChecked": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "version": 1,
-          "id": 3,
-          "candiadteId": 3,
-          "department": "Web",
-          "isComplete": true,
-          "dateCompleted": "01.02.2022",
-          "blockList": [
-            {
-              "id": 1,
-              "name": "Script-Sprachen",
-              "topicList": [
-                {
-                  "id": 1,
-                  "name": "JavaScript",
-                  "isChecked": true,
-                  "yearsExperience": 4,
-                  "skillLevel": 3
-                },
-                {
-                  "id": 2,
-                  "name": "PHP",
-                  "isChecked": true,
-                  "yearsExperience": 1,
-                  "skillLevel": 1
-                }
-              ]
-            },
-            {
-              "id": 2,
-              "name": "Design Patterns",
-              "topicList": [
-                {
-                  "id": 3,
-                  "name": "Singleton",
-                  "isChecked": true
-                },
-                {
-                  "id": 4,
-                  "name": "Factory",
-                  "isChecked": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "1": {
+        "version": 1,
+        "id": 1,
+        "candiadteId": 1,
+        "department": "Web",
+        "isComplete": true,
+        "dateCompleted": "01.02.2022",
+        "blockList": [
+          {
+            "id": 1,
+            "name": "Script-Sprachen",
+            "topicList": [
+              {
+                "id": 1,
+                "name": "JavaScript",
+                "isChecked": true,
+                "yearsExperience": 4,
+                "skillLevel": 3
+              },
+              {
+                "id": 2,
+                "name": "PHP",
+                "isChecked": true,
+                "yearsExperience": 1,
+                "skillLevel": 1
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Design Patterns",
+            "topicList": [
+              {
+                "id": 3,
+                "name": "Singleton",
+                "isChecked": true
+              },
+              {
+                "id": 4,
+                "name": "Factory",
+                "isChecked": false
+              }
+            ]
+          }
+        ]
+      },
+      "2": {
+        "version": 1,
+        "id": 2,
+        "candiadteId": 1,
+        "department": "Web",
+        "isComplete": true,
+        "dateCompleted": "01.02.2022",
+        "blockList": [
+          {
+            "id": 1,
+            "name": "Script-Sprachen",
+            "topicList": [
+              {
+                "id": 1,
+                "name": "JavaScript",
+                "isChecked": true,
+                "yearsExperience": 4,
+                "skillLevel": 3
+              },
+              {
+                "id": 2,
+                "name": "PHP",
+                "isChecked": true,
+                "yearsExperience": 1,
+                "skillLevel": 1
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Design Patterns",
+            "topicList": [
+              {
+                "id": 3,
+                "name": "Singleton",
+                "isChecked": true
+              },
+              {
+                "id": 4,
+                "name": "Factory",
+                "isChecked": false
+              }
+            ]
+          }
+        ]
+      }
   }
 }
