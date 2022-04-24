@@ -1,5 +1,6 @@
 {
-      "User": [
+  "User": {
+      "candidates": [
         {
           "id": 1,
           "firstName": "Vorname",
@@ -24,8 +25,11 @@
           "dateInterviewed": "",
           "interviewed": false
         }
-      ],
-      "Post": [
+      ]
+    
+  },
+  "Comment": {
+      "skillplans": [
         {
           "version": 1,
           "id": 1,
@@ -165,4 +169,5 @@
           ]
         }
       ]
+  }
 }
