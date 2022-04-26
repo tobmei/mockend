@@ -1,0 +1,32 @@
+{
+  "techQuestionAnswers": [
+    {
+      "id": 1,
+	  "candidateId": 1,
+      "techQuetsionId": 1,
+      "answer": "Ganz tolle Antwort!",
+	  "evaluation": 10
+    },
+    {
+      "id": 2,
+	  "candidateId": 1,
+      "techQuetsionId": 5,
+      "answer": "Keine Ahnung?",
+	  "evaluation": 1
+    },
+    {
+      "id": 3,
+	  "candidateId": 1,
+      "techQuetsionId": 2,
+      "answer": "So und so",
+	  "evaluation": 5
+    },
+    {
+      "id": 4,
+	  "candidateId": 2,
+      "techQuetsionId": 7,
+      "answer": "Lorem ipsum",
+	  "evaluation": 10
+    }
+  ]
+}
